@@ -14,11 +14,11 @@
   "dependencies": {
     "ansistyles": "~0.1.1",
     "ansicolors": "~0.2.1",
-    "xtend": "~2.1.1"
+    "xtend": "~4.0.2"
   },
   "devDependencies": {
     "tap": "~16.3.4",
-    "bunyan": "~0.22.0"
+    "bunyan": "~1.8.15"
   },
   "keywords": [
     "bunyan",
