@@ -17,7 +17,7 @@
     "xtend": "~2.1.1"
   },
   "devDependencies": {
-    "tap": "~0.4.3",
+    "tap": "~16.3.4",
     "bunyan": "~0.22.0"
   },
   "keywords": [
